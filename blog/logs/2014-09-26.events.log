@@ -1,9 +1,0 @@
-l2	time	2014-09-26T13:37:48	code	32000	message	<span>Application started</span>
-l2	time	2014-09-26T13:37:49	code	1120	message	<span>Report-Mailer Service Started</span>
-l2	time	2014-09-26T13:40:53	code	1121	message	<span>Report-Mailer Service Shutdown</span>
-l2	time	2014-09-26T14:01:36	code	32000	message	<span>Application started</span>
-l2	time	2014-09-26T14:01:37	code	1120	message	<span>Report-Mailer Service Started</span>
-l2	time	2014-09-26T14:04:51	code	5000	message	<span>Audit: SecurityFailure Login with username admin from ::1</span>
-l2	time	2014-09-26T14:05:15	code	5000	message	<span>Audit: SecurityFailure Login with username admin from ::1</span>
-l2	time	2014-09-26T14:05:33	code	5000	message	<span>Audit: SecurityFailure Login with username admin from ::1</span>
-l2	time	2014-09-26T15:05:12	code	1121	message	<span>Report-Mailer Service Shutdown</span>
